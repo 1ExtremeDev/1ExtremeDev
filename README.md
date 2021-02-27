@@ -7,7 +7,7 @@
     <li>Proficient in Python/Ruby<br >Learning/Coding: C, C#/C++, JavaScript, Java, GoLang</li>
     <li>Desktop/Web</li>
     <li>Visual Studio Code / Nano / Atom</li>
-  <li>Waiting for <a href="https://coinmarketcap.com/currencies/binance-coin/">Binance Coin</a> to 🚀</li>
+  <li>Working on a private browser.</li>
   </ul>
   <br>
 <h2>My Stats 👨‍💻 </h2>
@@ -21,6 +21,6 @@
 <br/>
 <h2>Social Media</h2>
 <li><a href="https://discord.com/">ExtremeDev#5605</a></li>
-<li><a href="https://www.instagram.com/extremedev_alt/">extremedev_alt</a></li>
-<li><a href="https://twitter.com/extremedevalt">extremedevalt</a></li>
+<li><a href="https://www.instagram.com/extremedev_alt/">ExtremeDev_Alt</a></li>
+<li><a href="https://twitter.com/extremedevalt">ExtremeDevAlt</a></li>
 </a>
