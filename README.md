@@ -10,7 +10,7 @@
   <li>Working on a private browser</li>
   </ul>
   <br>
-<h2>My Stats 👨‍💻 </h2>
+<h2>Repository info</h2>
 
 <img alt=""  src="https://github-readme-stats.vercel.app/api?username=1ExtremeDev&show_icons=true&theme=gotham" />
   
