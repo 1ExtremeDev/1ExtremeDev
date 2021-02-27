@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1> Hello !  </h1>
+<h3><code>$ extremedev.init </code></h3>
+  <h4>My name is ExtremeDev, I'm 15, located on the earth.</h4>
+  <h4>Info</h4>
+  <ul>
+    <li>Os: Ubuntu / BlackArch</li>
+    <li>Proficient in Python/Ruby<br >Learning/Coding: C, C#/C++, JavaScript, Java, GoLang</li>
+    <li>Desktop/Web</li>
+    <li>Visual Studio Code / Nano / Atom</li>
+  <li>Waiting for <a href="https://coinmarketcap.com/currencies/binance-coin/">Binance Coin</a> to 🚀</li>
+  </ul>
+  <br>
+<h2>My Stats 👨‍💻 </h2>
 
-<!--
-**1ExtremeDev/1ExtremeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt=""  src="https://github-readme-stats.vercel.app/api?username=1ExtremeDev&show_icons=true&theme=gotham" />
+  
 
-Here are some ideas to get you started:
+<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ExtremeDev&layout=compact&theme=gotham"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<h2>Social Media</h2>
+<li><a href="https://discord.com/">ExtremeDev#5605</a></li>
+<li><a href="https://www.instagram.com/extremedev_alt/">extremedev_alt</a></li>
+<li><a href="https://twitter.com/extremedevalt">extremedevalt</a></li>
+</a>
