@@ -7,7 +7,7 @@
     <li>Proficient in Python/Ruby<br >Learning/Coding: C, C#/C++, JavaScript, Java, GoLang</li>
     <li>Desktop/Web</li>
     <li>Visual Studio Code / Nano / Atom</li>
-  <li>Working on a private browser.</li>
+  <li>Working on a private browser</li>
   </ul>
   <br>
 <h2>My Stats 👨‍💻 </h2>
