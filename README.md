@@ -9,7 +9,7 @@ I'm Cute
   <ul>
     <li>Os: Ubuntu / BlackArch</li>
     <li>Proficient in Python / Ruby<br >Working with: C#, C/C++, Html, CSS, JavaScript, Java, GoLang, Rust</li>
-    <li>Desktop/Web Development</li>
+    <li>Desktop / Web Development</li>
     <li>Backend / Front-End</li>
     <li>Visual Studio Code / Nano / Atom</li>
   <li>Working on a private browser for website pen-testing.</li>
