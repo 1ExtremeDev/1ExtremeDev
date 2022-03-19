@@ -4,7 +4,7 @@ I'm Cute
 
 <h1> Hello !  </h1>
 <h3><code>$ extremedev.init </code></h3>
-  <h4>My name is ExtremeDev, I'm 16, located on the earth.</h4>
+  <h4>My name is ExtremeDev, located on the earth.</h4>
   <h4>Info</h4>
   <ul>
     <li>Os: Ubuntu / BlackArch</li>
